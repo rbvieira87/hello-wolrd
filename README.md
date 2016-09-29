@@ -1,2 +1,2 @@
 # hello-wolrd
-just etiquete
+just etiquete and boringness
